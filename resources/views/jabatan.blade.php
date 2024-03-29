@@ -7,7 +7,7 @@
                 <div class="card">
                     <div class="card-header pb-0 px-3">
                         <h6 class="mb-0">Master Positions Level</h6>
-                        <a class="btn btn-link text-success text-gradient px-3 mb-0" href="javascript:;"><i class="fas fa-user-plus me-2"></i>Tambah Pegawai</a>
+                        <a class="btn btn-link text-success text-gradient px-3 mb-0" href="javascript:;"><i class="fas fa-user-plus me-2"></i>Add New Employee</a>
                     </div>
                     <div class="card-body pt-4 p-3">
                         <ul class="list-group">
