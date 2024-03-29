@@ -61,25 +61,25 @@
                         <div class="col-md-6">
                             <div class="form-group">
                                 <label for="example-text-input" class="form-control-label">Full Name</label>
-                                <input class="form-control" type="text" value="puanabila30">
+                                <input class="form-control" type="text" value="Karina Sarasvati Ningrum">
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="form-group">
                                 <label for="example-text-input" class="form-control-label">Date of Birth</label>
-                                <input class="form-control" type="email" value="Head Manager">
+                                <input class="form-control" type="email" value="20 March 1997">
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="form-group">
                                 <label for="example-text-input" class="form-control-label">Gender</label>
-                                <input class="form-control" type="text" value="University of Tanjungpura">
+                                <input class="form-control" type="text" value="Woman">
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="form-group">
                                 <label for="example-text-input" class="form-control-label">Age</label>
-                                <input class="form-control" type="text" value="Rp 12.500.000">
+                                <input class="form-control" type="text" value="27 years old">
                             </div>
                         </div>
                     </div>
@@ -123,7 +123,7 @@
                         <div class="col-md-4">
                             <div class="form-group">
                                 <label for="example-text-input" class="form-control-label">City</label>
-                                <input class="form-control" type="text" value="Pontianak">
+                                <input class="form-control" type="text" value="Jakarta">
                             </div>
                         </div>
                         <div class="col-md-4">
